@@ -8,3 +8,6 @@ __pycache__/
 
 # Virtual Environment
 venv/
+
+# Ignore specific file
+dataset/penguins_size.csv
